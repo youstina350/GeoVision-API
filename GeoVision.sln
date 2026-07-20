@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVision.API", "GeoVision\GeoVision.API.csproj", "{AD6D0153-A5FA-4FB4-A626-032205C2609D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVision.Infrastructure", "GeoVision.Infrastructure\GeoVision.Infrastructure.csproj", "{1F693D62-BBAC-463D-B657-3A4435FCB96F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVision.Core", "GeoVision.Core\GeoVision.Core.csproj", "{E1C0D788-1966-473C-92E6-27AC1C63961F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoVision.Application", "GeoVision.Application\GeoVision.Application.csproj", "{EB12ECE3-4321-4321-BE2C-25E590D92E9E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD6D0153-A5FA-4FB4-A626-032205C2609D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6D0153-A5FA-4FB4-A626-032205C2609D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6D0153-A5FA-4FB4-A626-032205C2609D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6D0153-A5FA-4FB4-A626-032205C2609D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F693D62-BBAC-463D-B657-3A4435FCB96F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F693D62-BBAC-463D-B657-3A4435FCB96F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F693D62-BBAC-463D-B657-3A4435FCB96F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F693D62-BBAC-463D-B657-3A4435FCB96F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C0D788-1966-473C-92E6-27AC1C63961F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C0D788-1966-473C-92E6-27AC1C63961F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C0D788-1966-473C-92E6-27AC1C63961F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C0D788-1966-473C-92E6-27AC1C63961F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB12ECE3-4321-4321-BE2C-25E590D92E9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB12ECE3-4321-4321-BE2C-25E590D92E9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB12ECE3-4321-4321-BE2C-25E590D92E9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB12ECE3-4321-4321-BE2C-25E590D92E9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA541DD0-2771-47AC-95BB-A47C663C9367}
+	EndGlobalSection
+EndGlobal

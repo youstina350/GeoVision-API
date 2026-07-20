@@ -1,0 +1,6 @@
+@GeoVision_HostAddress = http://localhost:5105
+
+GET {{GeoVision_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

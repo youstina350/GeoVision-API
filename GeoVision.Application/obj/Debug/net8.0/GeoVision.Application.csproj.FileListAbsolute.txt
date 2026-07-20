@@ -1,0 +1,17 @@
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Application.deps.json
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Application.runtimeconfig.json
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Application.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Application.pdb
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Core.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\bin\Debug\net8.0\GeoVision.Core.pdb
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.csproj.AssemblyReference.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.AssemblyInfoInputs.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.AssemblyInfo.cs
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.csproj.CoreCompileInputs.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVisio.29AD6BA6.Up2Date
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\refint\GeoVision.Application.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.pdb
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\GeoVision.Application.genruntimeconfig.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Application\obj\Debug\net8.0\ref\GeoVision.Application.dll

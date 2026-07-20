@@ -1,0 +1,11 @@
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\bin\Debug\net8.0\GeoVision.Core.deps.json
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\bin\Debug\net8.0\GeoVision.Core.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\bin\Debug\net8.0\GeoVision.Core.pdb
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.AssemblyInfoInputs.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.AssemblyInfo.cs
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.csproj.CoreCompileInputs.cache
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\refint\GeoVision.Core.dll
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\GeoVision.Core.pdb
+C:\Users\youstina\Desktop\New folder (4)\GeoVision\GeoVision.Core\obj\Debug\net8.0\ref\GeoVision.Core.dll
