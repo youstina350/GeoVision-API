@@ -2,7 +2,7 @@
 
 <p align="center">
 
-Backend for the **GeoVision GIS Platform** built with **ASP.NET Core 9** using **Clean Architecture** principles.
+Backend for the **GeoVision GIS Platform** built with **ASP.NET Core 8** using **Clean Architecture** principles.
 
 GeoVision aggregates multiple geospatial and environmental data providers into a unified REST API powering the GeoVision Frontend.
 
